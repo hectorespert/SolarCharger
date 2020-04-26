@@ -9,3 +9,16 @@ The only functionality provided is to measure the voltage of Lipo Battery if it 
 Use the [Arduino Library Manager](https://www.arduino.cc/en/guide/libraries#toc3) or the [PlatformIO Library Manager](https://docs.platformio.org/en/latest/librarymanager) to install the library.
 
 ## Usage
+
+1. Include the library header.
+```
+#include <SolarCharger.h>
+```
+2. Init SolarCharger instance;
+```
+SolarCharger solarCharger(A0);
+```
+3. Read voltage in the loop function.
+```
+float volatge = solarCharger.readVoltage();
+```
