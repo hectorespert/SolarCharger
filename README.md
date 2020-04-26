@@ -1,4 +1,6 @@
-# SolarCharger
+# SolarCharger 
+[![Build Status](https://travis-ci.org/hectorespert/SolarCharger.svg?branch=master)](https://travis-ci.org/hectorespert/SolarCharger)
+
 SolarCharger library is intended to be used with the [Solar Charger Shield](http://wiki.seeedstudio.com/Solar_Charger_Shield_V2.2) by [Seeedstudio](https://www.seeedstudio.com/) or with a clone if it exists.
 
 The only functionality provided is to measure the voltage of Lipo Battery if it is [enabled](http://wiki.seeedstudio.com/Solar_Charger_Shield_V2.2/#testing-the-solar-shield-with-a-simple-arduino-program) in the shield.
