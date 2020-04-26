@@ -1,0 +1,11 @@
+# Syntax Coloring Map For SolarCharger library
+
+# Datatypes (KEYWORD1)
+SolarCharger	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+readVoltage	KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
