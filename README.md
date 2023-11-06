@@ -1,5 +1,6 @@
 # SolarCharger 
-[![Build Status](https://travis-ci.org/hectorespert/SolarCharger.svg?branch=master)](https://travis-ci.org/hectorespert/SolarCharger)
+[![SolarCharger CI](https://github.com/hectorespert/SolarCharger/actions/workflows/main.yml/badge.svg)](https://github.com/hectorespert/SolarCharger/actions/workflows/main.yml)
+[![PlatformIO Registry](https://badges.registry.platformio.org/packages/hectorespert/library/SolarCharger.svg)](https://registry.platformio.org/libraries/hectorespert/SolarCharger)
 
 SolarCharger library is intended to be used with the [Solar Charger Shield](http://wiki.seeedstudio.com/Solar_Charger_Shield_V2.2) by [Seeedstudio](https://www.seeedstudio.com/) or with a clone if it exists.
 
